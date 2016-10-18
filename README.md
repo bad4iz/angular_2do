@@ -1,21 +1,21 @@
 echo "# zavod_2" >> README.md<br/>
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/bad4iz/angular_2do.git
-git push -u origin master
-…or push an existing repository from the command line
+git init<br/>
+git add README.md<br/>
+git commit -m "first commit"<br/>
+git remote add origin https://github.com/bad4iz/angular_2do.git<br/>
+git push -u origin master<br/>
+…or push an existing repository from the command line<br/>
 
 ===============================================================
 
-git remote add origin https://github.com/bad4iz/angular_2do.git
-git push -u origin master
+git remote add origin https://github.com/bad4iz/angular_2do.git<br/>
+git push -u origin master<br/>
 
 ===============================================================
 
-# Angular 2Do
- перед использованием
+# Angular 2Do<br/>
+ перед использованием<br/>
 
-установить typescript,  
+установить typescript,  <br/>
 
-  инициализировать  npm install
+  инициализировать  npm install<br/>
