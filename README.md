@@ -1,7 +1,7 @@
 echo "# zavod_2" >> README.md
-
+<br/>
 git init
-
+<br/>
 git add README.md
 
 git commit -m "first commit"
