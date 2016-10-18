@@ -1,0 +1,14 @@
+/**
+ * Created by bad4iz on 18.10.2016.
+ */
+import { Component, Input } from '@angular/core';
+
+@Component({
+    selector: 'todo-item',
+    templateUrl: './app/todo/todo-item.component.html',
+    styleUrls: ['./app/todo/todo-item.component.css']
+})
+
+export class TodoItem{
+    @Input() todo: string;
+}
