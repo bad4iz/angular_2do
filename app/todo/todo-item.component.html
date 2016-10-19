@@ -1,4 +1,4 @@
-<div class="ui checkbox" >
+<div class="ui checkbox" [ngClass]="{my_mouseenter: todo.my_mouseenter}">
     <input type="checkbox" (change)="toggleDone()">
     <label [ngClass]="{done: todo.done}">{{todo.title}}</label>
 </div>

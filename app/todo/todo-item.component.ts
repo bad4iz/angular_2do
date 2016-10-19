@@ -19,5 +19,8 @@ export class TodoItem{
     delete(){
 
     }
-
+    my_mouseenter(){
+        this.todo.my_mouseenter = !this.todo.my_mouseenter;
+        console.log(' наввели мышку')
+    }
 }
